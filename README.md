@@ -3,8 +3,6 @@
 From Anaconda, install and launch Spyder environment, There you can run the code.
 
 
-# Recommendation System 
-
 ## Introduction and how they work
 
 The data for a recommender system comes from different sources. To recommend things that we might like, a platform (such as Netflix or Amazon) with a recommendation system needs data about us, our tastes and interests, as an individual user, and merge it with the collective behavior of everyone else like us.  
